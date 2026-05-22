@@ -1,5 +1,5 @@
 # GPT-Style-Transformer (Personal Learning Project)
-A single-file PyTorch implementation of a small transformer trained on English Wikipedia for next-token prediction. Built as a learning exercise.
+A PyTorch implementation of a small transformer trained on English Wikipedia for next-token prediction. Built as a learning exercise.
 
 ---
 
