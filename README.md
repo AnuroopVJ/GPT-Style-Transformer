@@ -59,18 +59,10 @@ The context is cropped to `block_size` tokens when the generated sequence exceed
 ---
 
 ## Requirements
-
-```
-torch
-tiktoken
-datasets
-matplotlib
-```
-
 Install:
 
 ```bash
-pip install torch tiktoken datasets matplotlib
+pip install -r requirements.txt
 ```
 
 Originally developed on Google Colab with a T4 GPU (`accelerator: GPU`).
