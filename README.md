@@ -15,7 +15,7 @@ A PyTorch implementation of a small transformer trained on English Wikipedia for
 | Output | Linear projection → logit over vocabulary |
 | Parameters (approx.) | ~6.7M (dominated by embedding tables) |
 
-> **Note:** The model contains one attention block with a residual connection but **no position-wise feedforward network (FFN)**. This departs from the standard transformer block described in Vaswani et al. (2017). A full transformer block would add a two-layer MLP after the attention sub-layer.
+
 
 ---
 
